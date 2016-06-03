@@ -1,0 +1,39 @@
+BODY {
+font : 10pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+background-color : #F9FAFF;
+margin : 20px 0px 20px 0px;
+text-align: center;
+} 
+
+#contenedor{
+width: 1200px;
+background-color : #ffffff;
+margin: auto;
+} 
+
+
+#tabla {
+font : 7pt Verdana, Geneva, Arial, Helvetica, sans-serif;
+} 
+
+
+
+
+INPUT {
+font-size : 10pt; /* se define el tamaño de la fuente de los textbox */
+}
+
+SELECT {
+font-size : 10pt; /* se define el tamaño de la fuente de los textbox */
+}
+
+#nivel{ /* con esta clase impide que no haya elementos flotando ni ala izquierda ni a la derecho de los radio button*/ 
+text-align: center;
+} 
+
+.separar{
+margin: 5px 0px 5px 0px;
+}
+
+
+
